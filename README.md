@@ -1,1 +1,1 @@
-# ai
+python main.py
